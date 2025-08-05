@@ -1,4 +1,4 @@
-## Hi, I'm Rizwan 👋
+## Hi, I'm Talib 
 As a seasoned Software Engineer with 7+ years of working experience, I bring a depth of expertise and a commitment to excellence in every endeavour. My journey in software development is marked by a passion for creating robust, scalable solutions that drive business success and technological innovation.  
 
 My expertise covers a wide range of technologies and methodologies, allowing me to adapt and excel in various environments. I have consistently delivered projects on time and within budget, playing a crucial role in their success.
